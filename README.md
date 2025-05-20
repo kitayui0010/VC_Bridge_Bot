@@ -1,4 +1,4 @@
-# Discord Voice Bridge Bot
+# Discord VC Bridge Bot
 
 
 
